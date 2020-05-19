@@ -4,9 +4,10 @@ Search engine for Acronis
 Sometimes we need to find huge strings in the big data set. This program can solve this problem)))
 
 `make` - compile all project without debug info
+
 `make debug` - it's needed only for debug
 
-`/templates` - folder with small database if `.txt` and project files for tests and benchmarks
+`/templates` - folder with small database with `.txt` books and project files for tests and benchmarks
 
 `./search.out file_name path_to_database_folder` - start format
 
